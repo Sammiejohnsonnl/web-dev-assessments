@@ -6,6 +6,13 @@ body {
   color: #283845; 
 }
 
+style
+.burger {
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+}
+
 .container {
   width: 100%;
 }
